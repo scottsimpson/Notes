@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # # TODO: add the descriptions to the types (legend / descriptions)
 
 # legend from linux-sxs.org/housekeeping/lscolors.html
